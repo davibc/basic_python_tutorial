@@ -1,3 +1,6 @@
+# Se é usado para validações, (if em português = se) ou seja, verificamos se algo é maior, menor, igual, etc que outra coisa
+# Se é usado para validações ou seja verificamos se algo é maior, menor, igual, etc que outra coisa
+
 name = 'Arthur'
 age = 17
 
