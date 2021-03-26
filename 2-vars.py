@@ -2,7 +2,7 @@ nome = 'Arthur'
 nome2 = "Arthur"
 
 name = "Arthur"
-name2 = "Arthur"
+name2 = 'Arthur'
 
 print(nome)
 print(nome2)
